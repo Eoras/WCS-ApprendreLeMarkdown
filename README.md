@@ -1,6 +1,6 @@
 ![Paul DOS SANTOS](https://avatars3.githubusercontent.com/u/28847235?s=100&v=4 "Me")
 
-#Presentation
+# Presentation
 
 I've been passionate about code since I was young, I blossom in the code and deepen my knowledge day after day.
 
@@ -8,7 +8,7 @@ Following training at the Wild Code School, I got my software developer status. 
 
 Dynamic, independent and detail-oriented are major assets of my personality.
 
-#Formation
+# Formation
 
 **2017 - 2018 - Wild Code School**<br>
 _Software Developer State Title_<br>
@@ -22,17 +22,17 @@ Hairdresser - Stylist / Make-up artist
 _Certificate of professional competence_<br>
 Hairdresser
 
-#Professional experience
+# Professional experience
 
-#####2018 - Today - Apside - Web Developer
+##### 2018 - Today - Apside - Web Developer
 
-#####2017 - 2018 - Wild Code School - Web Developer Junior
+##### 2017 - 2018 - Wild Code School - Web Developer Junior
 
-#####2014 - 2016 - Administrative and Commercial Manager
+##### 2014 - 2016 - Administrative and Commercial Manager
 
-#####2008 - 2014 - Hairdresser - Stylist / Make-up artist
+##### 2008 - 2014 - Hairdresser - Stylist / Make-up artist
 
-#Hobbies
+# Hobbies
 
 ![Meetup](assets/img/meetup.png?raw=true "Meetup")
 ![Cinema](assets/img/cinema.png "Cinema")
@@ -40,7 +40,7 @@ Hairdresser
 ![Video Game](assets/img/videogames.png "Video Game")
 ![Develop](assets/img/develop.png "Develop")
 
-#LINKS
+# LINKS
 
 [![Linkedin](https://imag.malavida.com/mvimgbig/download-s/linkedin-10226-0.jpg "Linkedin")](https://www.linkedin.com/in/paulds45/)
 [![GitHub](assets/img/github.png "GitHub")](https://github.com/Eoras/)
